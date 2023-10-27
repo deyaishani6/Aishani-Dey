@@ -9,3 +9,10 @@ A motivated and detail-oriented Data Science student, eager to embark on a succe
 ---
 [1]:https://github.com/deyaishani6
 [2]:http://www.linkedin.com/in/aishani-dey-449787251
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/R/R-original-wordmark.svg" title="R" alt="R" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
